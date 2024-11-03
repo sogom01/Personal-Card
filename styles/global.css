@@ -107,4 +107,9 @@ body {
   font-weight: 300;
   text-wrap: nowrap;
   text-align: center;
+  transition: all 0.2s ease-in;
+}
+
+.contact-buttons a:hover {
+  background-color: #ff0033;
 }
